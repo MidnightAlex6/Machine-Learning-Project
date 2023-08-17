@@ -10,6 +10,10 @@ Our group will develop a supervised machine learning model to predict student su
 
 * Drop out: Students who did not finish the entirety of their course, failed out, left early, or did not graduate for any other reason.
 
+## Presention
+
+[Google Sildes](https://docs.google.com/presentation/d/1200tFtsupHWD6LAmIvOv6dqgGMqdAzsM7mrfokip8oc/edit?usp=sharing)
+
 ## Collaborators
 
 * [Alex Valerio](https://github.com/MidnightAlex6)
