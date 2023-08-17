@@ -1,6 +1,6 @@
 # Predict Students' Dropout and Academic Success
 
-![depositphotos_314690806-stock-illustration-machine-learning-banner-concept](https://github.com/MidnightAlex6/Machine-Learning-Project/assets/126301312/e058389a-2303-4706-bb0d-5d4da449d717)
+![banner final](https://github.com/MidnightAlex6/Machine-Learning-Project/assets/126301312/67be6ff3-2b87-4399-bda1-3c2b6e77ed95)
 
 ## Background
 
