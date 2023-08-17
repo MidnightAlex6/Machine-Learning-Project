@@ -1,4 +1,4 @@
-# Machine Learning Project
+# Predict Students' Dropout and Academic Success
 
 ## Background
 
