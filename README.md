@@ -10,8 +10,8 @@ Our group will develop a supervised machine learning model to predict student su
 
 ## Collaborators
 
-* Alex Valerio
-* Eduardo Aleman
-* Irena Mehic
-* Nathan Beathea-Martinez
-* Ning Gao
+* [Alex Valerio](https://github.com/MidnightAlex6)
+* [Eduardo Aleman](https://github.com/Lalito1997)
+* [Irena Mehic](https://github.com/irenamehic)
+* [Nathan Beathea-Martinez](https://github.com/NathanBeatheaMartinez)
+* [Ning Gao](https://github.com/RabNing)
