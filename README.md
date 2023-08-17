@@ -7,3 +7,11 @@ Our group will develop a supervised machine learning model to predict student su
 * Success: Students who graduated or finished their course.
 
 * Drop out: Students who did not finish the entirety of their course, failed out, left early, or did not graduate for any other reason.
+
+## Collaborators
+
+* Alex Valerio
+* Eduardo Aleman
+* Irena Mehic
+* Nathan Beathea-Martinez
+* Ning Gao
