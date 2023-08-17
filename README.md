@@ -1,5 +1,7 @@
 # Predict Students' Dropout and Academic Success
 
+![depositphotos_314690806-stock-illustration-machine-learning-banner-concept](https://github.com/MidnightAlex6/Machine-Learning-Project/assets/126301312/e058389a-2303-4706-bb0d-5d4da449d717)
+
 ## Background
 
 Our group will develop a supervised machine learning model to predict student success in higher education using a dataset consisting of academic, demographic, and socio-economic factors. Our dataset was sourced from the [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success) and is created from several disjoint databases related to students enrolled in various undergraduate degrees (agronomy, design, education, nursing, journalism, management, social service, and technologies). The dataset includes information known at the time of student enrollment and the students' academic performance at the end of the first and second semesters.The classification will predict students that will be successful or dropout. Our model will aim to provide valuable insights to support interventions for at-risk students and improve overall retention and academic outcome. 
